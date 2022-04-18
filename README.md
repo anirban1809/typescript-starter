@@ -9,8 +9,6 @@
 
 A starter project that makes creating a TypeScript library extremely easy.
 
-![](https://i.imgur.com/opUmHp0.png)
-
 ### Usage
 
 ```bash
